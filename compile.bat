@@ -1,0 +1,1 @@
+gcc calc.c calculadora.c calculadora.h -o calc
